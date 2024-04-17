@@ -1,0 +1,22 @@
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.deps.json
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfoInputs.cache
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfo.cs
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcProyectoWeb.Models.dll
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\anahi\OneDrive\Desktop\Materia\Sistema Web 2\DesarrolloWebII-main\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcProyectoWeb.Models.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.deps.json
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcProyectoWeb.Models.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcProyectoWeb.Models.dll
